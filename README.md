@@ -1,2 +1,2 @@
 # BPM-Assistant
-Business Process Automation Tool  
+Business Process Management Assistant  
