@@ -45,7 +45,7 @@ The **BPM Assistant** is a sophisticated desktop application designed for enterp
 ## 📸 Application Screenshots
 
 ### Main Interface
-![Application Interface](assets/screenshots/Application%20With%20Sample%20Data.png)
+![Application Interface](assets/screenshots/main-interface.png)
 *Clean, professional interface with dual-pane workflow design*
 
 ### Step 1: Due Diligence Processing  
