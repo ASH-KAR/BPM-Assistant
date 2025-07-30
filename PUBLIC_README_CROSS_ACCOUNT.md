@@ -11,11 +11,10 @@
 
 ## 👥 Repository Information
 
-**Project Developer**: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)  
-**Portfolio Maintainer**: [@FRIEND-USERNAME](https://github.com/FRIEND-USERNAME)  
-**Private Source Code**: `https://github.com/YOUR-USERNAME/BPM-Assistant-Source` 🔒
+**Project Developers**: [@ASH-KAR](https://github.com/ASH-KAR) & [@KARTIKEY-MALKANI](https://github.com/Kartikey-Malkani) 
+**Private Source Code**: `https://github.com/Kartikey-Malkani/BPM-Assistant-Source` 🔒
 
-This repository serves as a **professional portfolio showcase** for the BPM Assistant application. The actual source code is maintained separately in a private repository for security and intellectual property protection.
+This repository serves as a **professional portfolio showcase** for the BPM Assistant application developed collaboratively by both team members. The actual source code is maintained separately in a private repository for security and intellectual property protection.
 
 ### Access Workflow:
 1. **View Portfolio** → This public repository (you are here)
@@ -100,10 +99,10 @@ The **BPM Assistant** is a sophisticated desktop application designed for enterp
 The complete source code is maintained in a private repository by the original developer for security and intellectual property protection.
 
 **To request access:**
-1. [**Create an access request issue**](https://github.com/FRIEND-USERNAME/BPM-Assistant-Portfolio/issues/new?template=code-access-request.md) 📝
+1. [**Create an access request issue**](https://github.com/ASH-KAR/BPM-Assistant-Portfolio/issues/new?template=code-access-request.md) 📝
 2. Provide professional verification details  
 3. Wait for review and approval (2-3 business days) ⏰
-4. **Access will be granted by**: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME) ✅
+4. **Access will be granted by**: [@KARTIKEY-MALKANI](https://github.com/Kartikey-Malkani) & [@ASH-KAR](https://github.com/ASH-KAR) ✅
 
 **Access is granted to:**
 - ✅ Potential employers for technical interviews
@@ -111,7 +110,7 @@ The complete source code is maintained in a private repository by the original d
 - ✅ Academic researchers for educational purposes
 - ✅ Verified professionals with legitimate use cases
 
-**Repository Owner**: This portfolio is showcased by [@FRIEND-USERNAME](https://github.com/FRIEND-USERNAME) on behalf of the original developer [@YOUR-USERNAME](https://github.com/YOUR-USERNAME).
+**Repository Owners**: This portfolio showcases a collaborative project developed by [@ASH-KAR](https://github.com/ASH-KAR) and [@KARTIKEY-MALKANI](https://github.com/Kartikey-Malkani)
 
 ---
 
@@ -173,9 +172,8 @@ python BPM_Assistant_v1.4.5.py
 - **Knowledge Sharing** - Best practices in desktop application development
 
 ### Contact Information:
-- **Developer**: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME) - Original creator and code owner
-- **Portfolio Manager**: [@FRIEND-USERNAME](https://github.com/FRIEND-USERNAME) - Showcase maintainer
-
+- **Lead Developer**: [@ASH-KAR](https://github.com/ASH-KAR) - Architecture and core implementation
+- **Co-Developer**: [@KARTIKEY-MALKANI](https://github.com/Kartikey-Malkani) - Feature development and portfolio management
 ---
 
 ## 📈 Project Highlights
@@ -207,7 +205,7 @@ python BPM_Assistant_v1.4.5.py
 
 Ready to explore the technical implementation? 
 
-[**🔓 Request Source Code Access**](https://github.com/FRIEND-USERNAME/BPM-Assistant-Portfolio/issues/new?template=code-access-request.md)
+[**🔓 Request Source Code Access**](https://github.com/ASH-KAR/BPM-Assistant-Portfolio/issues/new?template=code-access-request.md)
 
 *Professional verification required - access typically granted within 2-3 business days*
 
