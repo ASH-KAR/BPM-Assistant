@@ -100,7 +100,7 @@ The **BPM Assistant** is a sophisticated desktop application designed for enterp
 The complete source code is maintained in a private repository by the original developer for security and intellectual property protection.
 
 **To request access:**
-1. [**Create an access request issue**](https://github.com/ASH-KAR/BPM-Assistant-Portfolio/issues/new?template=code-access-request.md) 📝
+1. [**Create an access request issue**](https://github.com/ASH-KAR/BPM-Assistant/issues/new?template=code-access-request.md) 📝
 2. Provide professional verification details  
 3. Wait for review and approval (2-3 business days) ⏰
 4. **Access will be granted by**: [@KARTIKEY-MALKANI](https://github.com/Kartikey-Malkani) & [@ASH-KAR](https://github.com/ASH-KAR) ✅
