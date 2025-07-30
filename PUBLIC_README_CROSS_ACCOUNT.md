@@ -12,6 +12,7 @@
 ## 👥 Repository Information
 
 **Project Developers**: [@ASH-KAR](https://github.com/ASH-KAR) & [@KARTIKEY-MALKANI](https://github.com/Kartikey-Malkani) .
+
 **Private Source Code**: `https://github.com/Kartikey-Malkani/BPM-Assistant-Source` 🔒
 
 This repository serves as a **professional portfolio showcase** for the BPM Assistant application developed collaboratively by both team members. The actual source code is maintained separately in a private repository for security and intellectual property protection.
