@@ -184,9 +184,9 @@ The complete source code for this project is available upon request for:
 - Academic or learning purposes
 
 **Contact me** through:
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
-- GitHub: [Your GitHub Profile]
+- LinkedIn: [Ashita-Tripathi](https://www.linkedin.com/in/ashita-tripathi/)
+- Email: ashitatripathi00@gmail.com
+- GitHub: [ASH-KAR](https://github.com/ASH-KAR) 
 
 ---
 
