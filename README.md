@@ -206,7 +206,7 @@ python BPM_Assistant_v1.4.5.py
 
 Ready to explore the technical implementation? 
 
-[**🔓 Request Source Code Access**](https://github.com/ASH-KAR/BPM-Assistant-Portfolio/issues/new?template=code-access-request.md)
+[**🔓 Request Source Code Access**](https://github.com/ASH-KAR/BPM-Assistant/issues/new?template=code-access-request.md)
 
 *Professional verification required - access typically granted within 2-3 business days*
 
@@ -215,9 +215,7 @@ Ready to explore the technical implementation?
 ## 📄 Additional Resources
 
 - [🎯 Portfolio Showcase](PORTFOLIO_SHOWCASE.md)
-- [🔒 Code Access Guidelines](CODE_ACCESS.md)  
-- [📋 GitHub Strategy](GITHUB_STRATEGY.md)
-- [🚀 Setup Instructions](SETUP_INSTRUCTIONS.md)
+- [🔒 Code Access Guidelines](code-access-request.md)  
 
 ---
 
