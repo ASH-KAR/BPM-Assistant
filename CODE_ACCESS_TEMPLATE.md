@@ -3,7 +3,7 @@ name: 🔒 Code Access Request
 about: Request access to the private source code repository
 title: '[ACCESS REQUEST] '
 labels: 'access-request, pending-review'
-assignees: 'FRIEND-USERNAME'
+assignees: '@ASH-KAR'
 
 ---
 
@@ -71,17 +71,17 @@ By submitting this request, I agree to:
 **What happens next:**
 
 1. **Initial Screening** (24-48 hours)
-   - [@FRIEND-USERNAME](https://github.com/FRIEND-USERNAME) reviews your request
+   - [@KARTIKEY-MALKANI](https://github.com/Kartikey-Malkani) reviews your request
    - Verification of provided information
    - Initial eligibility assessment
 
 2. **Developer Review** (2-3 business days)
-   - Request forwarded to [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+   - Request forwarded to [@ASH-KAR](https://github.com/ASH-KAR)
    - Final approval decision
    - Access level determination
 
 3. **Access Grant** (If approved)
-   - Invitation sent to private repository: `https://github.com/YOUR-USERNAME/BPM-Assistant-Source`
+   - Invitation sent to private repository: `https://github.com/Kartikey-Malkani/BPM-Assistant-Source`
    - Access instructions provided
    - Collaboration guidelines shared
 
@@ -96,12 +96,12 @@ By submitting this request, I agree to:
 
 **For questions about this request:**
 
-**Primary Contact (Portfolio Manager)**:
-- GitHub: [@FRIEND-USERNAME](https://github.com/FRIEND-USERNAME)
+**Primary Contact (Developer and Manager)**:
+- GitHub: [@ASH-KAR](https://github.com/ASH-KAR)
 - Role: Initial screening and coordination
 
-**Secondary Contact (Developer)**:  
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+**Secondary Contact (CO-Developer)**:  
+- GitHub: [@KARTIKEY-MALKANI](https://github.com/Kartikey-Malkani)
 - Role: Final approval and technical discussion
 
 **Response Time**: 2-3 business days for access decisions
@@ -110,8 +110,8 @@ By submitting this request, I agree to:
 
 ## 🔐 Repository Information
 
-**Private Repository**: `https://github.com/YOUR-USERNAME/BPM-Assistant-Source`  
-**Repository Owner**: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)  
+**Private Repository**: `https://github.com/Kartikey-Malkani/BPM-Assistant-Source`  
+**Repository Owner**: [@KARTIKEY-MALKANI](https://github.com/Kartikey-Malkani)  
 **Access Control**: Invitation-only, reviewer approval required
 
 **What you'll get access to:**
